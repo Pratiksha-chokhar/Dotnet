@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day3\RefrenceType\bin\Debug\RefrenceType.exe.config
+F:\My.Netprograms\Day3\RefrenceType\bin\Debug\RefrenceType.exe
+F:\My.Netprograms\Day3\RefrenceType\bin\Debug\RefrenceType.pdb
+F:\My.Netprograms\Day3\RefrenceType\obj\Debug\RefrenceType.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day3\RefrenceType\obj\Debug\RefrenceType.exe
+F:\My.Netprograms\Day3\RefrenceType\obj\Debug\RefrenceType.pdb
+F:\My.Netprograms\Day3\RefrenceType\obj\Debug\RefrenceType.csprojAssemblyReference.cache

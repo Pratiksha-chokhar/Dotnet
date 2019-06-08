@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day3\MyArrays\bin\Debug\MyArrays.exe.config
+F:\My.Netprograms\Day3\MyArrays\bin\Debug\MyArrays.exe
+F:\My.Netprograms\Day3\MyArrays\bin\Debug\MyArrays.pdb
+F:\My.Netprograms\Day3\MyArrays\obj\Debug\MyArrays.csprojAssemblyReference.cache
+F:\My.Netprograms\Day3\MyArrays\obj\Debug\MyArrays.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day3\MyArrays\obj\Debug\MyArrays.exe
+F:\My.Netprograms\Day3\MyArrays\obj\Debug\MyArrays.pdb

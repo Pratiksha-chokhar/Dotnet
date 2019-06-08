@@ -1,0 +1,10 @@
+this._=this._||{};(function(_){var window=this;
+try{
+var gk=function(){var a=(0,_.P)("q");return a&&(0,window.decodeURIComponent)(a.replace(/\+/g," "))};(0,_.Vg)("gf");var hk=function(a,b,c){a.timeOfStartCall=(new Date).getTime();if(b&&JSON&&JSON.stringify){var d=JSON.stringify(b);200>=d.length&&(a.psdJson=d)}d=c||_.p;d.GOOGLE_FEEDBACK_START_ARGUMENTS=arguments;var e=a.serverUri||"//www.google.com/tools/feedback",f=d.GOOGLE_FEEDBACK_START;if(f)f.apply(d,arguments);else{var e=e+"/load.js?",g;for(g in a)f=a[g],null!=f&&!(0,_.la)(f)&&(e+=(0,window.encodeURIComponent)(g)+"="+(0,window.encodeURIComponent)(f)+"&");g=d.document;d=g.createElement("script");d.src=e;g.body.appendChild(d)}};
+var ik=196,jk=!1,kk=!1,lk=function(a){return(a=a.getAttribute("data-ved"))?"ved:"+a:""},mk=function(a,b,c){var d=a.ved,e=a.bucket,f="true"===a.preserveuseridentity,g=ik;"productid"in a&&(g=a.productid);d?window.google.log("gf","&ved="+(0,window.encodeURIComponent)(d)):window.google.log("gf","");d={productId:g,locale:window.google.kHL,authuser:window.google.authuser,https:window.google.https(),enableAnonymousFeedback:!f,extractMetadataFunction:lk};f={ei:window.google.kEI,expi:window.google.kEXPI,si:jk,
+internal:kk};e&&(d.bucket=e);c?(f.q=gk(),f.tier=1,d.enableRating=!0):f.query=gk();b&&(d.flow="help",d.anchor=window.document.getElementById("abar_button_opt"),d.helpCenterPath="websearch",d.helpCenterContext=a.context,d.showHelpCenterLink=!0,e&&(d.contactBucket=e));hk(d,f)},nk=function(a,b){mk(b,!1,!1)},ok=function(a,b){nk(0,b);return!0},pk=function(a,b){mk(b,!1,!0)},qk=function(a,b){mk(b,!0,!1);return!0}; (0,_.Xd)("gf",{init:function(a){ik=a.pid;jk=Boolean(a.si);kk=Boolean(a["int"]);(0,_.fk)("gf",{sf:nk,sfd:ok,sh:qk,smf:pk})},dispose:function(){var a=window.GOOGLE_FEEDBACK_DESTROY_FUNCTION;a&&a()}});
+
+(0,_.Ug)("gf");(0,_.Wg)();
+}catch(e){_._DumpException(e)}
+})(this._);
+// Google Inc.

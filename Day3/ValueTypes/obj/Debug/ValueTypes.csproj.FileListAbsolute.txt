@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day3\ValueTypes\bin\Debug\ValueTypes.exe.config
+F:\My.Netprograms\Day3\ValueTypes\bin\Debug\ValueTypes.exe
+F:\My.Netprograms\Day3\ValueTypes\bin\Debug\ValueTypes.pdb
+F:\My.Netprograms\Day3\ValueTypes\obj\Debug\ValueTypes.csprojAssemblyReference.cache
+F:\My.Netprograms\Day3\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day3\ValueTypes\obj\Debug\ValueTypes.exe
+F:\My.Netprograms\Day3\ValueTypes\obj\Debug\ValueTypes.pdb

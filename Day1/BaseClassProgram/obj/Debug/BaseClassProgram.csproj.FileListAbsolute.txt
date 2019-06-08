@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day1\BaseClassProgram\bin\Debug\BaseClassProgram.exe.config
+F:\My.Netprograms\Day1\BaseClassProgram\bin\Debug\BaseClassProgram.exe
+F:\My.Netprograms\Day1\BaseClassProgram\bin\Debug\BaseClassProgram.pdb
+F:\My.Netprograms\Day1\BaseClassProgram\obj\Debug\BaseClassProgram.csprojAssemblyReference.cache
+F:\My.Netprograms\Day1\BaseClassProgram\obj\Debug\BaseClassProgram.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day1\BaseClassProgram\obj\Debug\BaseClassProgram.exe
+F:\My.Netprograms\Day1\BaseClassProgram\obj\Debug\BaseClassProgram.pdb

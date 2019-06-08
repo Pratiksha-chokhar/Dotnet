@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day3\CollectionAssignment\bin\Debug\CollectionAssignment.exe.config
+F:\My.Netprograms\Day3\CollectionAssignment\bin\Debug\CollectionAssignment.exe
+F:\My.Netprograms\Day3\CollectionAssignment\bin\Debug\CollectionAssignment.pdb
+F:\My.Netprograms\Day3\CollectionAssignment\obj\Debug\CollectionAssignment.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day3\CollectionAssignment\obj\Debug\CollectionAssignment.exe
+F:\My.Netprograms\Day3\CollectionAssignment\obj\Debug\CollectionAssignment.pdb
+F:\My.Netprograms\Day3\CollectionAssignment\obj\Debug\CollectionAssignment.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day2Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+F:\My.Netprograms\Day2Interfaces\Interfaces\bin\Debug\Interfaces.exe
+F:\My.Netprograms\Day2Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+F:\My.Netprograms\Day2Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+F:\My.Netprograms\Day2Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day2Interfaces\Interfaces\obj\Debug\Interfaces.exe
+F:\My.Netprograms\Day2Interfaces\Interfaces\obj\Debug\Interfaces.pdb

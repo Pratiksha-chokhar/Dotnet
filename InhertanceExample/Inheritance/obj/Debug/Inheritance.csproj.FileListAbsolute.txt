@@ -1,0 +1,11 @@
+F:\My.Netprograms\InhertanceExample\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\Inheritance.exe.config
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\Inheritance.exe
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\Inheritance.pdb
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\TestInheritance.dll
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\TestInheritance.pdb
+F:\My.Netprograms\InhertanceExample\Inheritance\bin\Debug\TestInheritance.dll.config
+F:\My.Netprograms\InhertanceExample\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+F:\My.Netprograms\InhertanceExample\Inheritance\obj\Debug\Inheritance.csproj.CopyComplete
+F:\My.Netprograms\InhertanceExample\Inheritance\obj\Debug\Inheritance.exe
+F:\My.Netprograms\InhertanceExample\Inheritance\obj\Debug\Inheritance.pdb

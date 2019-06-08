@@ -1,0 +1,7 @@
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\obj\Debug\InheritanceAssignment.csprojAssemblyReference.cache
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+F:\My.Netprograms\Day2Interfaces\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb

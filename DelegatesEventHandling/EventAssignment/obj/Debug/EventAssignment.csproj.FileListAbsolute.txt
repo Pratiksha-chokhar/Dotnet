@@ -1,0 +1,7 @@
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\obj\Debug\EventAssignment.csprojAssemblyReference.cache
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\obj\Debug\EventAssignment.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\bin\Debug\EventAssignment.exe.config
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\bin\Debug\EventAssignment.exe
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\bin\Debug\EventAssignment.pdb
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\obj\Debug\EventAssignment.exe
+F:\My.Netprograms\DelegatesEventHandling\EventAssignment\obj\Debug\EventAssignment.pdb

@@ -1,0 +1,6 @@
+F:\My.Netprograms\Day3\GenericsExample\bin\Debug\GenericsExample.exe.config
+F:\My.Netprograms\Day3\GenericsExample\bin\Debug\GenericsExample.exe
+F:\My.Netprograms\Day3\GenericsExample\bin\Debug\GenericsExample.pdb
+F:\My.Netprograms\Day3\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+F:\My.Netprograms\Day3\GenericsExample\obj\Debug\GenericsExample.exe
+F:\My.Netprograms\Day3\GenericsExample\obj\Debug\GenericsExample.pdb
